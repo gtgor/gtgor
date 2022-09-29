@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome(◍˃̶ᗜ˂̶◍)✩
 
-<!--
-**gtgor/gtgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="http://cmoe.azurewebsites.net/cmoe?name=fumiama&theme=r34" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fumiama&layout=compact" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fumiama&show_icons=true&count_private=true&icon_color=fdd34f&title_color=f75e4f" width="417px"/>
+</div>
+
+
+
+![pcb](pcb.jpg)
